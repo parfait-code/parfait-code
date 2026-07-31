@@ -1,44 +1,66 @@
-# Kouam Parfait J✨
+# Salut, moi c'est Parfait 👋
 
-## 👨‍💻 Full-Stack JavaScript Developer & 🛡️ Security Researcher
-
-Passionate about building robust web applications and finding their vulnerabilities. I blend my expertise in full-stack JavaScript development with penetration testing skills to create secure, high-performance applications that stand up to modern security challenges.
-
-### 🚀 What I Do
-
-- 🖥️ Develop modern web applications using JavaScript frameworks and libraries
-- 🔍 Conduct thorough security assessments and penetration tests
-- 🔐 Implement secure coding practices and vulnerability remediation
-- ⚡ Build scalable backend systems with Node.js and Express
-- 🎨 Create responsive and intuitive frontends with React/Vue/Angular
-- 🐍 Craft custom penetration testing tools using Python
-
-### 🛠️ Tech Stack
-
-**Frontend:** JavaScript, TypeScript, React, Vue, Angular, HTML5, CSS3  
-**Backend:** Node.js, Express, NestJS  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Security Tools:** Burp Suite, OWASP ZAP, Metasploit, Nmap  
-**DevOps:** Docker, CI/CD, AWS/Azure  
-**Security Development:** Python, Bash, Reverse Engineering
-
-### 💫 Projects
-
-- 🕵️‍♂️ Creator of custom penetration testing frameworks and utilities
-- 🔄 Full-stack applications with security built-in from the ground up
-- 🧪 Active contributor to open-source security projects
-
-I'm always looking to collaborate on interesting projects that challenge both my development and security testing skills. Let's build something secure together! ✨
-<!---
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kouam%20Parfait-blue)](https://linkedin.com/in/kouamparfait)
-[![Twitter](https://img.shields.io/badge/Twitter-@kouamparfait-1DA1F2)](https://twitter.com/kouamparfait)
-[![Website](https://img.shields.io/badge/Website-kouamparfait.dev-green)](https://kouamparfait.dev)
+### Développeur Full-Stack | React.js & Next.js | React Native
 
 ---
 
+## 🧑🏾‍💻 À propos de moi
 
-kouamDev/kouamDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌍 Basé à **Yaoundé, Cameroun**
+- 💻 Développeur Full-Stack, spécialisé en **React.js / Next.js** côté web et **React Native** côté mobile
+- 🛠️ Je conçois des architectures backend robustes (Node.js, PHP, PostgreSQL, Redis) pour accompagner mes projets front
+- 🔷 TypeScript est mon standard sur tous mes projets depuis 2024
+- 🔍 Je réalise aussi des audits techniques et du SEO pour améliorer la performance et la visibilité des sites
+- 📚 Toujours en train d'apprendre et d'explorer de nouvelles architectures (microservices, systèmes distribués)
+- ✍️ Passionné aussi par l'écriture, la voix et la création de contenu
+
+---
+
+## 🛠️ Stack technique
+
+**Web**
+`TypeScript` `JavaScript (ES6+)` `React` `Next.js` `TailwindCSS` `Less` `TanStack Query` `Recharts` `Framer Motion`
+
+**Mobile**
+`React Native` `Ionic` `Expo`
+
+**Backend & Bases de données**
+`Node.js` `Express.js` `PHP` `PostgreSQL` `MySQL` `MongoDB` `Prisma` `Redis` `Firebase`
+
+**SEO & Audits**
+`SEO` `Lighthouse` `Audits Web`
+
+**Outils & DevOps**
+`Docker` `Git` `GitHub` `Nginx` `Cloudflare` `Figma` `Minio` `SaaS`
+
+**Vibe coding**
+`Claude AI` `GitHub Copilot`
+
+---
+
+## 🚀 Projets en cours
+
+- **E-Store** — Frontend e-commerce complet, connecté à une API REST maison.
+  Stack : TypeScript, TailwindCSS, TanStack Query, Recharts, js-cookie
+- **E-commerce API** — API REST de e-store (84 endpoints, 13 modules).
+  Stack : Node.js, PostgreSQL, Redis
+
+---
+
+## 📊 Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=parfait-code&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parfait-code&layout=compact&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=parfait-code&hide_border=true)
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : [kouamparfait5@gmail.com](mailto:kouamparfait5@gmail.com)
+- 📱 Téléphone : +237 658 375 813
+- 💼 LinkedIn : [parfait-kouam](https://linkedin.com/in/parfait-kouam)
+
+*Basé à Yaoundé, Cameroun 🇨🇲 — Ouvert aux opportunités et collaborations à l'international*
